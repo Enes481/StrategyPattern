@@ -1,0 +1,16 @@
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\01_Strategy.exe
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\01_Strategy.deps.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\01_Strategy.runtimeconfig.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\01_Strategy.runtimeconfig.dev.json
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\01_Strategy.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\ref\01_Strategy.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\bin\Debug\net5.0\01_Strategy.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.csproj.AssemblyReference.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.AssemblyInfoInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.AssemblyInfo.cs
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\ref\01_Strategy.dll
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.pdb
+C:\Users\akin.karabulut\source\repos\Pierre de Fermat - Design Patterns\20220602_Lecture\01_Strategy\obj\Debug\net5.0\01_Strategy.genruntimeconfig.cache
